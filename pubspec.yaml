@@ -1,0 +1,46 @@
+name: katalog
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
+  uses-material-design: true
+  assets :
+    - assets/JurassicW.jpg
+    - assets/WarMonkey.jpg
+    - assets/IT.jpg
+    - assets/Orphan.jpg
+    - assets/Sanandreas.jpg
+    - assets/Themeg.jpg
+    - assets/Jumanji.jpg
+    - assets/Metersdown.jpg
+    - assets/Alicein.jpg
+    - assets/Alive.jpg
+    - assets/Traintobusan.jpg
+    - assets/Allofusaredead.jpg
+    - assets/background.jpg
+    - assets/itsprofil.jpg
+    - assets/Thiscover.jpg
+    - assets/WaIcon.jpg
+    - assets/InstaIg.jpg
+    - assets/tele.jpg
+    - assets/Emaillogo.jpg
+    
